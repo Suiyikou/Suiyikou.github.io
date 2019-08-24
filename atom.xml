@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suiyikou.github.io/</id>
     <title>Suiyikou&apos; Notes</title>
-    <updated>2019-08-24T05:24:22.444Z</updated>
+    <updated>2019-08-24T05:26:25.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suiyikou.github.io/"/>
     <link rel="self" href="https://suiyikou.github.io//atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://suiyikou.github.io//images/avatar.png</logo>
     <icon>https://suiyikou.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Suiyikou&apos; Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[快来戳我啊]]></title>
+        <id>https://suiyikou.github.io//post/kuai-lai-chuo-wo-a</id>
+        <link href="https://suiyikou.github.io//post/kuai-lai-chuo-wo-a">
+        </link>
+        <updated>2019-08-24T05:25:11.000Z</updated>
+    </entry>
 </feed>
